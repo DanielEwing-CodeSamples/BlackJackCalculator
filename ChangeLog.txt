@@ -1,0 +1,1 @@
+2/7 - Added and tested the playGames function to source.cpp to allow the testing of multiple strategies at a time. 
